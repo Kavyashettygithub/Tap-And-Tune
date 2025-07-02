@@ -1,0 +1,314 @@
+[
+    {
+        "id":"1",
+        "name":"Rose",
+        "img":"https://i.pinimg.com/736x/1a/6b/4d/1a6b4d4d8e3378f07a5e8b7139fe9722.jpg",
+        "description":"A rose is a beautiful flower with a sweet smell. It has a sturdy stem with sharp thorns and green leaves. Roses come in many colors like red, pink, yellow, and white. They are often seen as a symbol of love and beauty. "
+    },
+    {
+        "id":"2",
+        "name":"Sunflower",
+        "img":"https://i.pinimg.com/736x/ec/05/4a/ec054acc8881a43c8bd58d029fada3a9.jpg",
+        "description":"Sunflowers are tall plants with big, bright yellow flower heads that look like the sun. They have a sturdy green stem and large, rough leaves. Sunflowers are known for turning their flower heads to follow the sun as it moves across the sky. The center of the flower is made up of many tiny flowers, and they produce seeds that people can eat or use to make oil. "
+    },
+    {
+        "id":"3",
+        "name":"Tulip",
+        "img":"https://i.pinimg.com/736x/02/50/f8/0250f8fb6fb142d34696cc53a91140de.jpg",
+        "description":"Tulips are beautiful, cup-shaped flowers that come in many bright colors like red, yellow, pink, and purple. They bloom in the spring and grow from bulbs planted in the fall. Tulips have long, green leaves and a tall stem, and they are related to the lily family. "
+    },
+    {
+        "id":"4",
+        "name":"Lily",
+        "img":"https://i.pinimg.com/736x/94/9f/fe/949ffe0064f8cb8ac35a79e1ece33b3a.jpg",
+        "description":"Lilies are beautiful flowers that come in many colors like white, pink, yellow, orange, red, and purple. They have long, narrow leaves and large, often fragrant, flowers. Some lilies, like water lilies, live in ponds and have floating leaves called lily pads. Lilies can grow from bulbs, which are like underground storage for the plant. "
+    },
+    {
+        "id":"5",
+        "name":"Daisy",
+        "img":"https://i.pinimg.com/736x/35/63/cc/3563ccf3fb0ee7de471f33394b6e6d95.jpg",
+        "description":"Daisies are cheerful, bright flowers with white petals surrounding a yellow center, like a little sun. They are part of the aster family, which also includes sunflowers and zinnias. Daisies are known for their simple beauty and are often found in meadows, gardens, and even along roadsides. "
+    },
+    {
+        "id":"6",
+        "name":"Orchid",
+        "img":"https://i.pinimg.com/736x/61/13/35/6113352b18c30c2cf6ebefe972941cbc.jpg",
+        "description":"Orchids are beautiful and unique flowering plants known for their intricate blooms and diverse forms. They are found all over the world, except for the polar regions, and come in many sizes, colors, and fragrances. Many orchids grow on other plants, like trees, rather than in soil, and some even grow underground. "
+    },
+    {
+        "id":"7",
+        "name":"Marigold",
+        "img":"https://i.pinimg.com/736x/4a/8f/6a/4a8f6a56c849de19c4a66dcb42fef121.jpg",
+        "description":"Marigolds are cheerful, bright flowers that come in shades of yellow, orange, and red. They are known for their vibrant colors and strong, sometimes spicy, scent. Marigolds are easy to grow and are popular in gardens and even among vegetables because they can help keep away some bugs. "
+    },
+    {
+        "id":"8",
+        "name":"Hibiscus",
+        "img":"https://i.pinimg.com/736x/7a/4c/ac/7a4cac6dc70e8cebd0e465d7b03858d7.jpg",
+        "description":"Hibiscus flowers are big, beautiful, and come in many bright colors like red, pink, orange, yellow, and purple! They look like big trumpets and have five or more petals. Hibiscus flowers are often found on shrubs or small trees, and they are popular in gardens and even as decorations. "
+    },
+    {
+        "id":"9",
+        "name":"Jasmine",
+        "img":"https://i.pinimg.com/736x/d9/78/60/d97860452b8f11960124aa55a2d5f9ea.jpg",
+        "description":"Jasmine flowers are small, star-shaped blooms, often white or pale yellow, with a very sweet and strong fragrance. They grow on vines or shrubs in warm, tropical climates. Jasmine flowers are popular for their scent, used in perfumes and teas, and are also enjoyed in gardens for their beauty. "
+    },
+    {
+        "id":"10",
+        "name":"Lavender",
+        "img":"https://i.pinimg.com/736x/08/33/a7/0833a7c0999b1b372f696018db792e85.jpg",
+        "description":"Lavender is a beautiful plant with fragrant purple flowers and gray-green leaves. It's a type of herb that grows as a bush and is often used to make things smell nice, like soaps and lotions. The flowers and oil of lavender can also be used in teas and even some foods. "
+    },
+    {
+        "id":"11",
+        "name":"Lotus",
+        "img":"https://i.pinimg.com/736x/39/b0/45/39b045113b2e251b52fdc613ca98592e.jpg",
+        "description":"The lotus is a beautiful, unique flower that grows in water. It's the national flower of India and is often associated with purity, beauty, and knowledge. Kids can learn that it's an aquatic plant with large, round leaves that float on the water's surface. The lotus flower itself can be pink or white and has petals shaped like boats. "
+    },
+    {
+        "id":"12",
+        "name":"Daffodil",
+        "img":"https://i.pinimg.com/736x/93/bc/00/93bc0089f1874a0086c455efaddbadd2.jpg",
+        "description":"Daffodils are cheerful, trumpet-shaped flowers that bloom in the spring. They typically have yellow or white petals surrounding a central trumpet-like structure. Daffodils grow from bulbs, and they are known for their bright colors and ability to return year after year, making them a symbol of new beginnings. "
+    },
+    {
+        "id":"13",
+        "name":"Chrysanthemum",
+        "img":"https://i.pinimg.com/736x/ee/e7/91/eee791ec036efdb73f5ee33487192ee6.jpg",
+        "description":"Chrysanthemums, often called 'mums,' are beautiful flowers with many petals. They come in a wide range of colors, like yellow, white, pink, and purple, and can be shaped like daisies or fluffy pom-poms. These flowers are popular for gardens and decorations, and they are known for blooming in the fall. "
+    },
+    {
+        "id":"14",
+        "name":"Peony",
+        "img":"https://i.pinimg.com/736x/c8/27/db/c827db1568cfaf94bfc7da7ec2f92e82.jpg",
+        "description":"Peonies are beautiful flowers that have big, round blooms in colors like pink, red, white, and even yellow. They're known for being showy and fragrant. Peonies can grow on plants (herbaceous peonies) or on woody shrubs (tree peonies). They're popular in gardens and can last for many years. "
+    },
+    {
+        "id":"15",
+        "name":"Poppy",
+        "img":"https://i.pinimg.com/736x/5a/f2/93/5af293793cbd20e56bed26d25ddaf8b5.jpg",
+        "description":"Poppies are beautiful flowers with delicate, papery petals that often come in bright colors like red, orange, yellow, pink, or white. They have long been a symbol of remembrance, especially for soldiers who died in war, and they are also known for their seeds, which are used in baking. "
+    },
+    {
+        "id":"16",
+        "name":"Bluebell",
+        "img":"https://i.pinimg.com/736x/6d/12/c0/6d12c088a548c0f59edbe28753474b03.jpg",
+        "description":"Bluebells are pretty, bell-shaped flowers that grow on a tall stem. They are known for their lovely, sweet scent and usually droop to one side. The flowers are typically a vibrant violet-blue color, but sometimes you can find them in white or pink too. "
+    },
+    {
+        "id":"17",
+        "name":"Magnolias",
+        "img":"https://i.pinimg.com/736x/e6/a7/41/e6a7418af305fbc09ad0a127796a29ca.jpg",
+        "description":"Magnolias are beautiful trees and shrubs known for their large, fragrant flowers. These flowers can be white, pink, or purple and often appear before the leaves in the spring. Magnolias come in different types, some with leaves that stay green all year (evergreen) and others that lose their leaves in the winter (deciduous). They are popular in gardens and parks because of their pretty blooms and lovely scent. "
+    },
+    {
+        "id":"18",
+        "name":"Camellia",
+        "img":"https://i.pinimg.com/736x/ff/23/ab/ff23ab0b033ddccc7be87dc83be7f79f.jpg",
+        "description":"Camellias are beautiful, evergreen shrubs or small trees with glossy, green leaves and large, showy flowers. They come in many colors like white, pink, and red, and some even have a sweet scent. Camellias are known for blooming in the cooler months, like late autumn and early spring. A special camellia, Camellia sinensis, is used to make tea. "
+    },
+    {
+        "id":"19",
+        "name":"Carnation",
+        "img":"https://i.pinimg.com/736x/8e/be/c9/8ebec90507a8c553cc946e3fc6fc488a.jpg",
+        "description":"Carnations are beautiful, ruffled flowers that come in many colors! They often smell sweet, like cloves. Kids can recognize them by their fringed petals and the way the flowers grow on long, sturdy stems. They're popular for gifts and decorations and have been around for a very long time. "
+    },
+    {
+        "id":"20",
+        "name":"Zinnia",
+        "img":"https://i.pinimg.com/736x/5e/32/5f/5e325f8ca1a6d2db74448ed36bdb70cb.jpg",
+        "description":"Zinnias are beautiful, bright, and cheerful flowers that come in many colors like yellow, orange, red, pink, and purple. They are related to daisies and have petals that can be arranged in single or double rows. Zinnias are easy to grow and can be found in different sizes, from small and bushy to tall and single-stemmed. "
+    },
+    {
+        "id":"21",
+        "name":"Dahlia",
+        "img":"https://i.pinimg.com/736x/bf/e1/de/bfe1de6f394733f7515ee4150ad7f78d.jpg",
+        "description":"Dahlias are beautiful flowers that come in many colors and sizes. They have lots of petals that can be arranged in different ways, like a single layer like a daisy or in a fluffy, peony-like shape. Dahlias are like a party on a stem, with each flower head growing on its own stalk. They can be as small as a button or as big as a dinner plate. "
+    },
+    {
+        "id":"22",
+        "name":"Petunia",
+        "img":"https://i.pinimg.com/736x/89/b5/d2/89b5d2e00f288403f5a06414d62630c9.jpg",
+        "description":"Petunias are cheerful, colorful flowers that are easy to grow, making them a great choice for kids to plant! They come in many bright colors like pink, red, purple, yellow, and white. Petunias have trumpet-shaped flowers and grow from spring until the first frost. They are popular in gardens, hanging baskets, and window boxes. "
+    },
+    {
+        "id":"23",
+        "name":"Snapdragon",
+        "img":"https://i.pinimg.com/736x/18/33/d0/1833d007cc3bababe48ae00861ac2a38.jpg",
+        "description":"Snapdragons are pretty flowers that kids love because you can make them 'talk'! When you gently squeeze the sides of the flower, its two 'lips' open up like a dragon's mouth. They come in many colors like pink, yellow, orange, and white. They grow on tall, straight stems, making them fun to pick and play with. "
+    },
+    {
+        "id":"24",
+        "name":"Anemone",
+        "img":"https://i.pinimg.com/736x/49/c4/c7/49c4c7217b88f62a5d93dcf17f77a42a.jpg",
+        "description":"Anemones, also called windflowers, are beautiful flowers with colorful petals (actually sepals) and a dark center. They can be red, blue, purple, or white. They are known for their graceful movement in the wind. Some anemones are small, while others are quite large.  "
+    },
+    {
+        "id":"25",
+        "name":"Iris ",
+        "img":"https://i.pinimg.com/736x/fc/08/8d/fc088d7f8ffe193a4644310f7e9077f3.jpg",
+        "description":"Irises are beautiful flowers known for their unique shape and vibrant colors, with six petals: three upright 'standards' and three drooping 'falls'. They come in many colors like purple, blue, yellow, white, and even black. Irises can grow from bulbs or from rhizomes, which are like underground stems. "
+    },
+    {
+        "id":"26",
+        "name":"Crossandra",
+        "img":"https://i.pinimg.com/736x/51/c5/7d/51c57d22b09f7e605b640a5c9251efe2.jpg",
+        "description":"Crossandra flowers, also known as firecracker flowers, are small, vibrant blooms that come in shades of orange, yellow, or coral. They grow in clusters on a plant with glossy, wavy-edged leaves. The flowers have a unique shape with 3-5 asymmetrical petals and a tube-like base. Crossandras are easy to care for and can bloom almost all year round in the right conditions. "
+    },
+    {
+        "id":"27",
+        "name":"Aster",
+        "img":"https://i.pinimg.com/736x/a1/80/70/a180708c86631cb80ca7a1b4567df9f8.jpg",
+        "description":"Asters are star-shaped flowers, often called 'daisy look-alikes', with a yellow center and colorful petals that come in shades of purple, pink, red, white, and even yellow. They are known for their vibrant colors and ability to attract bees and butterflies. Asters are also known as Michaelmas daisies because they often bloom around the time of the feast of St. Michael in autumn. "
+    },
+    {
+        "id":"28",
+        "name":"Begonia",
+        "img":"https://i.pinimg.com/736x/97/a1/4c/97a14c358341258d8b1e1fb61771902e.jpg",
+        "description":"Begonias are flowering plants known for their vibrant, colorful blooms and attractive, often asymmetrical, leaves. They come in many different shapes, sizes, and colors, and some types are grown for their beautiful foliage as well as their flowers. "
+    },
+    {
+        "id":"29",
+        "name":"Freesia",
+        "img":"https://i.pinimg.com/736x/87/52/3b/87523b4d8ba530f156b7d67be5becf7b.jpg",
+        "description":"Freesia plants have grassy foliage that arises from underground corms (bulblike structures). They bear wiry spikes of lemon-scented flowers in white, yellow, orange, and blue."
+    },
+    {
+        "id":"30",
+        "name":"Gardenia",
+        "img":"https://i.pinimg.com/736x/c2/ec/41/c2ec4145d94bdb5898e39e1f7d119d9f.jpg",
+        "description":"Gardenias are beautiful, fragrant flowers known for their creamy white, waxy petals and shiny green leaves. They have a strong, sweet scent that is often compared to jasmine. Gardenias are native to tropical and subtropical regions and are popular in gardens and as houseplants. "
+    },
+    {
+        "id":"31",
+        "name":"Geranium ",
+        "img":"https://www.southernliving.com/thmb/pi0r9AT0R6DUF11bFTmHlUeJPMc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1253078889-cb5f5141382a4a8abdcb9f48b67cc5a9.jpg",
+        "description":"Geraniums are cheerful, colorful flowers often seen in gardens and on windowsills. They are known for their bright, vibrant blooms that come in shades of pink, red, white, and even purple. Some geraniums also have a lovely scent, like lemon, rose, or even chocolate. They are easy to grow and can be found in many different types of gardens, from pots to hanging baskets. "
+    },
+    {
+        "id":"32",
+        "name":"Gladiolus",
+        "img":"https://i.pinimg.com/736x/7a/8c/3f/7a8c3f621ee5f2d813d74be7bc2a6357.jpg",
+        "description":"They are tubular, with six petals and petallike sepals. The plants are normally raised from bulblike structures called corms. The name gladiolus came from gladius, Latin for “sword.” The flower was so called because of the shape of the leaves. Sword lily is another name for the flower."
+    },
+    {
+        "id":"33",
+        "name":"Hellebore",
+        "img":"https://i.pinimg.com/736x/07/f0/06/07f0063bc38a57ad2403b3a5fba6445f.jpg",
+        "description":"Hellebores are beautiful, early-blooming flowers that often appear in shades of white, pink, green, or even purple, sometimes with interesting spots. They are known for their nodding, cup-shaped blooms and long-lasting flowers. They are also called Lenten roses because they often bloom around the Christian observance of Lent. "
+    },
+    {
+        "id":"34",
+        "name":"Hyacinth",
+        "img":"https://i.pinimg.com/736x/ff/27/39/ff27392fd03a16fef39767a275420f2f.jpg",
+        "description":"Hyacinths are beautiful, fragrant flowers that grow from bulbs. They have a tall, thick stem with lots of small, bell-shaped flowers packed closely together. These flowers are often blue, but can also be pink, white, or other colors. Hyacinths have a sweet smell and are popular in gardens. "
+    },
+    {
+        "id":"35",
+        "name":"Lantana",
+        "img":"https://i.pinimg.com/736x/26/f1/d7/26f1d77b95bedc4d3ca4b02d944e6315.jpg",
+        "description":"Lantana flowers are small, vibrant, and colorful, growing in clusters on a shrub. They come in a variety of colors, like yellow, orange, pink, and purple. Lantanas are popular with butterflies and hummingbirds because they like to drink the sweet nectar from the flowers. "
+    },
+    {
+        "id":"36",
+        "name":"Lilac",
+        "img":"https://i.pinimg.com/736x/ba/72/64/ba72646cdb886511f1523f018918ce90.jpg",
+        "description":"Lilac flowers are known for their beautiful clusters of fragrant, small, and colorful blossoms. They typically bloom in the spring, and their colors range from white and pink to various shades of purple. Lilacs are popular for gardens because of their lovely scent and the way their flowers grow in big, eye-catching bunches. "
+    },
+    {
+        "id":"37",
+        "name":"Lupine",
+        "img":"https://i.pinimg.com/736x/ee/7e/2f/ee7e2f24372b52a61935a83e705fab6a.jpg",
+        "description":"Lupine flowers are tall, colorful, and pea-like, often found in shades of purple, blue, and yellow. They grow in spiky clusters and have leaves that look like a hand with fingers. Lupines are known for helping the soil by adding a special nutrient called nitrogen. "
+    },
+    {
+        "id":"38",
+        "name":"Morning Glory",
+        "img":"https://i.pinimg.com/736x/ba/b6/07/bab6079822ff062ad322b4e87b415d68.jpg",
+        "description":"Morning Glory flowers are trumpet-shaped blossoms that are known for opening in the morning and closing by afternoon. They have vibrant colors like pink, purple, blue, and white. These fast-growing vines are easy to care for and can be found climbing walls, fences, or trellises. "
+    },
+    {
+        "id":"39",
+        "name":"Nasturtium",
+        "img":"https://i.pinimg.com/736x/21/6f/85/216f8593cc0a534b36799f8d1073877c.jpg",
+        "description":"Nasturtium flowers are bright and cheerful, like little trumpets, and come in colors like yellow, orange, and red. They have big, round, green leaves that look like lily pads. Everything on a nasturtium plant is edible, even the flowers and leaves have a peppery taste. "
+    },
+    {
+        "id":"40",
+        "name":"Oleander",
+        "img":"https://i.pinimg.com/736x/f7/70/dd/f770dde7e92a104cd81166585f63284b.jpg",
+        "description":"Oleander flowers are known for their vibrant colors and are often found in shades of pink, red, white, and yellow. They are typically showy, funnel-shaped, and grow in clusters at the ends of branches. These evergreen shrubs are popular in gardens and landscapes due to their attractive flowers and ability to tolerate various conditions. "
+    },
+    {
+        "id":"41",
+        "name":"Pansy",
+        "img":"https://i.pinimg.com/736x/aa/43/e2/aa43e200d4704f92249a585c30df4224.jpg",
+        "description":"Pansies are cheerful, colorful flowers with 'faces' that kids will love! They are known for their large, overlapping petals, often in shades of purple, yellow, blue, and white. Pansies are also known as 'Heart's ease' and are related to violets. They are relatively small plants, but their bright colors and unique patterns make them stand out in the garden. "
+    },
+    {
+        "id":"42",
+        "name":"Phlox",
+        "img":"https://i.pinimg.com/736x/11/3e/23/113e233b712bba92d95c818a28c879ee.jpg",
+        "description":"Phlox flowers are pretty, colorful blooms that grow in clusters. They come in many bright colors like pink, purple, blue, and white. The name 'phlox' actually means 'flame' in Greek, because of their bright, fiery appearance. These flowers are often fragrant and attract butterflies and hummingbirds. "
+    },
+    {
+        "id":"43",
+        "name":"Ranunculus",
+        "img":"https://i.pinimg.com/736x/c3/f3/46/c3f346a408ff1d2cb15b7d6ca05fda1a.jpg",
+        "description":"Ranunculus flowers, also known as buttercups, are known for their bright, cup-shaped blooms and vibrant colors. They have many layers of delicate, ruffled petals that can resemble roses or peonies. These flowers thrive in moist areas and are popular for gardens and bouquets. "
+    },
+    {
+        "id":"44",
+        "name":"Rudbeckia ",
+        "img":"https://i.pinimg.com/736x/47/63/ed/4763ed147fb5cc210e86b3f2914821c7.jpg",
+        "description":"Rudbeckia is a plant genus in the Asteraceae or composite family. Rudbeckia flowers feature a prominent, raised central disc in black, brown shades of green, and in-between tones, giving rise to their familiar common names of coneflowers and black-eyed-susans."
+    },
+    {
+        "id":"45",
+        "name":"Salvia",
+        "img":"https://i.pinimg.com/736x/2c/89/7d/2c897d33b8c57e8b2d0ee88a41631166.jpg",
+        "description":"Salvia flowers, also known as sage, are pretty plants with lots of different colors and shapes. They're known for their two-lipped, tube-like flowers that grow in tall spikes. Many types attract bees and butterflies. They often smell nice when you crush their leaves and are easy to grow in sunny spots. "
+    },
+    {
+        "id":"46",
+        "name":"Scabiosa",
+        "img":"https://i.pinimg.com/736x/93/f3/f4/93f3f4ebdcd9f75660b0d8c30b093a6f.jpg",
+        "description":"Scabiosa flowers, also known as pincushion flowers, are known for their unique, round shape, like a pincushion with lots of tiny pins sticking out. These colorful blooms come in shades of pink, lavender, white, blue, and even deep burgundy. They have a delicate, graceful appearance and are often found in gardens, attracting bees and butterflies. "
+    },
+    {
+        "id":"47",
+        "name":"Balloon flower",
+        "img":"https://i.pinimg.com/736x/58/ab/87/58ab8767c29c19c22229473b1b0e3b88.jpg",
+        "description":"Balloon flowers are known for their unique buds that swell up like balloons before they open into beautiful, bell-shaped flowers. The flowers are usually blue or purple, but can also be white or pink. They are a fun and easy-to-grow plant, perfect for gardens and even sunny windowsills. "
+    },
+    {
+        "id":"48",
+        "name":"Statice",
+        "img":"https://i.pinimg.com/736x/38/93/37/389337a7b0e4a114f02fb8f2f1d3d9cd.jpg",
+        "description":"Statice flowers are known for their papery, colorful bracts (modified leaves) that surround tiny, delicate true flowers. They come in shades of white, pink, purple, blue, and yellow. These flowers are popular because they dry well and retain their color, making them a great choice for dried flower arrangements. "
+    },
+    {
+        "id":"49",
+        "name":"Sweet Pea",
+        "img":"https://i.pinimg.com/736x/43/59/ee/4359ee41b137fe57f775d05529997d50.jpg",
+        "description":"Sweet Pea flowers are beautiful, climbing plants with fragrant, colorful blossoms. They have delicate, butterfly-like petals and are known for their sweet, lovely scent. These flowers are popular in gardens and bouquets, and they come in many colors like white, pink, red, purple, and even bicolor combinations. "
+    },
+    {
+        "id":"50",
+        "name":"Verbena",
+        "img":"https://i.pinimg.com/736x/5c/7c/ae/5c7caed6ec7f3474d46db071a9e03546.jpg",
+        "description":"Verbena flowers are beautiful, bright, and come in many colors! They are small flowers that grow in clusters on tall stems, like a little bouquet on top of a long stick. They can be purple, pink, red, white, or even a mix of colors! Verbena plants are easy to grow and enjoy being in the sun. They also attract butterflies and bees, which is great for the garden! "
+    },
+    {
+        "id":"51",
+        "name":"Vinca ",
+        "img":"https://i.pinimg.com/736x/79/66/e3/7966e3af3b601bda30d9bf1ab0f84364.jpg",
+        "description":" Vinca flowers, also known as periwinkles, are pretty, star-shaped blooms that come in colors like pink, red, purple, and white. They are easy to grow and have shiny green leaves. Vinca plants are known for being tough and can handle heat and some dryness, making them great for gardens. They are often used to add color to borders or groundcover. "
+    },
+    {
+        "id":"52",
+        "name":"Yarrow",
+        "img":"https://i.pinimg.com/736x/87/94/2b/87942bdc1a423f44f4e61532904fd6d7.jpg",
+        "description":"Yarrow is a flowering plant with feathery, fern-like leaves and flat-topped clusters of small, white flowers. It's a perennial, meaning it comes back year after year, and is found in many parts of the world. The flowers can also be pink or yellow. Yarrow has a long history of use as a medicinal herb, with some cultures using it to help stop bleeding and treat wounds. "
+    }
+]

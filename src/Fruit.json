@@ -1,0 +1,255 @@
+[
+    {
+    "idx":"1",
+    "name":"Apple",
+    "img":"https://i.pinimg.com/736x/19/a0/ad/19a0addde7e9da89f46a9956dd3698ad.jpg",
+    "description":"Apples are round, colorful fruits that grow on trees. They are known for being sweet, crunchy, and juicy, making them a tasty and healthy snack. Apples come in various colors like red, green, and yellow, and they can be eaten raw, used in pies, or made into juice. "
+},
+    {
+    "idx":"2",
+    "name":"Apricot",
+    "img":"https://i.pinimg.com/736x/69/ac/ef/69acef5c6e6ff925fcf18a9cb5386883.jpg",
+    "description":"Apricots are small, round, orange-yellow fruits that are sweet and slightly tart. They have a soft, fuzzy skin and a single seed inside. They are related to peaches and plums and are a good source of vitamins and minerals. "
+},
+    {
+    "idx":"3",
+    "name":"Avocado",
+    "img":"https://i.pinimg.com/736x/4c/c9/49/4cc94941d6df46fe1798a89b1b6ee444.jpg",
+    "description":"Avocados are yummy, green fruits that look a bit like pears. They have a big seed inside and a creamy, soft inside. Avocados are not sweet, but they taste a little bit nutty! They can be eaten plain or made into yummy things like guacamole. "
+},
+    {
+    "idx":"4",
+    "name":"Banana",
+    "img":"https://i.pinimg.com/736x/89/59/73/895973b47f07f22ea0aabbb2c0f8f2ca.jpg",
+    "description":"A banana is a long, curved fruit with a yellow peel that is easy to peel and eat. It grows in bunches on a plant called a banana palm, which is actually the largest herb in the world! Bananas are sweet and soft inside, and they're packed with nutrients like potassium, which is good for your heart. "
+},
+    {
+    "idx":"5",
+    "name":"Blackberry",
+    "img":"https://i.pinimg.com/736x/fe/68/b7/fe68b7439dbaf2197a57b59b94f77ccf.jpg",
+    "description":"Blackberries are sweet, juicy, and slightly tart fruits that grow on thorny bushes called brambles. They start green, then turn red, and finally become a deep purple-black when they're ripe and ready to eat. Blackberries are made up of tiny individual fruits called drupelets, which are all connected together. "
+},
+    {
+    "idx":"6",
+    "name":"Blueberry",
+    "img":"https://i.pinimg.com/736x/39/65/09/3965095e230f98774621c88ffcf34ed5.jpg",
+    "description":"Blueberries are small, round, and sweet berries that grow on bushes. They start out green, then turn reddish-purple, and finally become a deep blue or purple color when they are ripe and ready to eat. They are native to North America and are known for being a delicious and healthy 'superfood'. "
+},
+    {
+    "idx":"7",
+    "name":"Cherry",
+    "img":"https://i.pinimg.com/736x/bc/68/d5/bc68d5d7e872a20ed10f41d94e54cf66.jpg",
+    "description":"Cherries are small, round fruits that can be sweet or sour and grow on trees. They come in different colors like red, yellow, or even almost black, and are enjoyed fresh or used in pies and other treats. "
+},
+    {
+    "idx":"8",
+    "name":"Cranberry",
+    "img":"https://i.pinimg.com/736x/32/99/d1/3299d17f6f8ab6ba12e756c4fefe1126.jpg",
+    "description":"Cranberries are small, red, tart berries that grow on vines in bogs. They are known for their sour taste and are often used in sauces, juices, and baked goods. They are also a good source of vitamins and antioxidants. "
+},
+    {
+    "idx":"9",
+    "name":"Dragon fruit",
+    "img":"https://i.pinimg.com/736x/7b/99/35/7b9935019cb5368f5c694f912996632e.jpg",
+    "description":"Dragon fruit is a sweet, tropical fruit that grows on a cactus! It has bright pink or yellow skin with green scales, and its flesh can be white or red with tiny black seeds. It's sometimes called pitaya and has a mild, slightly sweet taste, like a mix of kiwi and pear. "
+},
+    {
+    "idx":"10",
+    "name":"Elderberry",
+    "img":"https://i.pinimg.com/736x/e6/5a/59/e65a5903ff2a6006d406c4cacb2cb329.jpg",
+    "description":"Elderberries are small, dark purple or black berries that grow in clusters on a shrub or small tree. They are often used to make jams, juices, and wines. "
+},
+    {
+    "idx":"11",
+    "name":"Fig",
+    "img":"https://i.pinimg.com/736x/5b/df/12/5bdf120933155d452f6f1fbf0927ab39.jpg",
+    "description":"Figs are small, sweet fruits that can be purple or green, with a thin, edible skin and tiny seeds inside. They're like a teardrop shape and have pink, soft flesh with a sweet taste. Figs grow on trees and are sometimes dried for snacks. "
+},
+    {
+    "idx":"12",
+    "name":"Grapefruit",
+    "img":"https://i.pinimg.com/736x/60/4c/3f/604c3f3f31cfc0a630ebd38ff9f23023.jpg",
+    "description":"Grapefruit is a big, juicy, citrus fruit that grows on trees. It's yellow on the outside and can be pink, red, or yellow inside. Grapefruit has a slightly sour and bitter taste. It's a good source of vitamin C and is often eaten fresh or juiced, according to Britannica Kids. "
+},
+    {
+    "idx":"13",
+    "name":"Grapes",
+    "img":"https://i.pinimg.com/736x/41/be/45/41be454d05d86963cd6ec0f454f40e44.jpg",
+    "description":"Grapes are bulb-shaped fruits. They can be eaten fresh, dried to make raisins, or crushed to make grape juice or wine. There are more than 8,000 varieties of grape. Grapes grow in wooded and warm regions of the world."
+},
+    {
+    "idx":"14",
+    "name":"Guava",
+    "img":"https://i.pinimg.com/736x/2f/f0/2b/2ff02bfb4486bd5279b40fea21d1ca4f.jpg",
+    "description":"Guava is a delicious, tropical fruit that's like a mix between a pear and a strawberry! It's round or slightly oblong, with green or yellow skin and pink, white, or yellow flesh inside. Guavas have a sweet, slightly tangy taste and a unique, musky smell. They grow on trees and are full of small, edible seeds. "
+},
+    {
+    "idx":"15",
+    "name":"Honeydew ",
+    "img":"https://i.pinimg.com/736x/ab/6f/1c/ab6f1cbc11cdac4d3d131c5e61535317.jpg",
+    "description":"Honeydew melons are round fruits with smooth, creamy yellow or white skin. Inside, they have pale green, juicy, and sweet flesh. They are related to cantaloupe and other melons, and grow on vines like squash and cucumbers. Honeydew melons are known for being very sweet, and are a good source of vitamins and fiber. "
+},
+    {
+    "idx":"16",
+    "name":"Jackfruit",
+    "img":"https://i.pinimg.com/736x/54/b9/2e/54b92e32dfb2870eec70f05a06741662.jpg",
+    "description":"Jackfruit is a nutritious and versatile fruit that can be a healthy addition to a child's diet. It's packed with vitamins, minerals, fiber, and protein, which are all important for growth and development. It can be introduced to babies around 6-9 months old. "
+},
+    {
+    "idx":"17",
+    "name":"Kiwi",
+    "img":"https://i.pinimg.com/736x/7a/7b/98/7a7b982b65ae99ee22dfb387c1396d37.jpg",
+    "description":"A kiwi fruit is a small, oval-shaped fruit with fuzzy brown skin and bright green flesh inside. It has tiny, black, edible seeds that are arranged in a circle around the center of the fruit. The taste is sweet and a little bit tangy, kind of like a mix of strawberries and bananas. "
+},
+    {
+    "idx":"18",
+    "name":"Lemon",
+    "img":"https://i.pinimg.com/736x/cc/e1/db/cce1db8f4d17c52917c73c25bcd7610a.jpg",
+    "description":"Lemons are bright yellow, oval-shaped citrus fruits with a sour taste. They grow on trees and are known for their tart juice, which is rich in vitamin C and used in many recipes. "
+},
+    {
+    "idx":"19",
+    "name":"Lychee",
+    "img":"https://i.pinimg.com/736x/a8/33/f3/a833f328ed3929491a96b103646b5577.jpg",
+    "description":"Lychees are small, round, red fruits with a bumpy, leathery skin and sweet, white flesh inside. They taste like a mix of strawberry, pear, and rose water, making them both sweet and slightly floral. "
+},
+    {
+    "idx":"20",
+    "name":"Mango",
+    "img":"https://i.pinimg.com/736x/1a/74/6a/1a746a73efbf847c1823455ad37ebc97.jpg",
+    "description":"A mango is a sweet, juicy, tropical fruit that grows on trees in warm places. It has a large seed in the middle and a skin that can be green, yellow, or red. Ripe mangoes are soft, pulpy, and delicious, and they come in many different varieties. "
+},
+    {
+    "idx":"21",
+    "name":"Mulberry",
+    "img":"https://i.pinimg.com/736x/63/9f/63/639f63c4e23d38caf15ca39ee150df25.jpg",
+    "description":"Mulberry trees have green leaves and can grow quite tall. Their fruits look like blackberries and change color as they ripen, from white or pink to red and then dark purple. They taste sweet when they are ripe. Mulberry trees are also known for their leaves, which are used to feed silkworms. "
+},
+    {
+    "idx":"22",
+    "name":"Nectarine",
+    "img":"https://i.pinimg.com/736x/07/b3/e4/07b3e4b8e6c508f75638369452e7a851.jpg",
+    "description":"Nectarines are smooth-skinned fruits that look like a fuzz-free peach. They're sweet and juicy, with a big seed, or 'stone,' in the middle. Nectarines can have either yellow or white flesh inside, and they grow on trees. "
+},
+    {
+    "idx":"23",
+    "name":"Olive",
+    "img":"https://i.pinimg.com/736x/5b/f3/65/5bf3654f761a177ba4d549eee65063a2.jpg",
+    "description":"Olives are small, oval-shaped fruits that grow on trees, mainly in the Mediterranean region. They are not usually eaten raw because they are quite bitter, but they are delicious after being processed or turned into olive oil. "
+},
+    {
+    "idx":"24",
+    "name":"Orange",
+    "img":"https://i.pinimg.com/736x/1d/00/c4/1d00c4def63f580b7450e834600d50e2.jpg",
+    "description":"An orange is a round, orange-colored fruit that grows on trees. It's known for its juicy, sweet-tart taste and is a good source of Vitamin C. Oranges have a tough, leathery peel that can be easily peeled away to reveal juicy segments inside. "
+},
+    {
+    "idx":"25",
+    "name":"Papaya",
+    "img":"https://i.pinimg.com/736x/d4/42/b4/d442b4f18b1e2edb9863ee94b2466312.jpg",
+    "description":"Papayas are sweet, juicy fruits that are shaped like a big pear. They are usually orange or yellow on the outside and have a bright orange or yellow flesh inside. Inside, you'll find black, round seeds that look like little beads. Papayas grow on trees in warm places and are a good source of vitamins. "
+},
+    {
+    "idx":"26",
+    "name":"Passion fruit",
+    "img":"https://i.pinimg.com/736x/67/98/d7/6798d7adca1c465d463f152bbe071cec.jpg",
+    "description":"Passion fruit is a small, round or oval fruit with a tough, wrinkled skin that can be purple or yellow. Inside, it has a sweet and tangy, jelly-like pulp with lots of black, crunchy seeds. It's like a tiny treasure chest of tropical flavors! "
+},
+    {
+    "idx":"27",
+    "name":"Peach",
+    "img":"https://i.pinimg.com/736x/00/eb/7a/00eb7a0f8beed86c5da4079fab274e0a.jpg",
+    "description":"Peaches are sweet, juicy fruits with fuzzy skin. They are round and have a large, hard pit inside. Peaches are a delicious treat, especially in the summer! "
+},
+    {
+    "idx":"28",
+    "name":"Pear",
+    "img":"https://i.pinimg.com/736x/aa/21/a7/aa21a722eb00a751de718f750ae29842.jpg",
+    "description":"Pears are sweet, juicy fruits that look like a bell or teardrop. They have smooth skin, often green or yellow, and a white, slightly grainy flesh. They grow on trees and are delicious to eat fresh, baked, or made into other treats like pies. "
+},
+    {
+    "idx":"29",
+    "name":"Persimmon",
+    "img":"https://i.pinimg.com/736x/7b/4b/10/7b4b1057f92287902f15f6fd8be94f8f.jpg",
+    "description":"Persimmons are sweet, orange-red fruits that look like small tomatoes. They grow on trees and are often eaten in the fall. When ripe, they are soft and juicy, with a honey-like flavor. "
+},
+    {
+    "idx":"30",
+    "name":"Pineapple",
+    "img":"https://i.pinimg.com/736x/d2/e2/bc/d2e2bcad02963799486a0c78b95207bd.jpg",
+    "description":"A pineapple is a sweet and tangy tropical fruit with a rough, spiky skin and juicy, yellow flesh inside. It grows on a plant with long, sword-shaped leaves. The fruit has a sweet smell and can be enjoyed fresh or canned. "
+},
+    {
+    "idx":"31",
+    "name":"Plum",
+    "img":"https://i.pinimg.com/736x/e7/31/ca/e731ca536b44d3c7948df0e559b130b9.jpg",
+    "description":"Plums are small, round fruits that come in many colors like red, purple, and yellow. They have a sweet, juicy flesh and a smooth skin. Plums grow on trees and are delicious to eat fresh or used in pies and other treats. "
+},
+    {
+    "idx":"32",
+    "name":"Pomegranate",
+    "img":"https://i.pinimg.com/736x/33/57/94/3357947436ee855d65ad80c48184e86b.jpg",
+    "description":"A pomegranate is a round, red fruit with a thick skin and juicy, red seeds inside. The seeds are the sweet and tart part you eat. It's like a little treasure chest of tasty jewels. "
+},
+    {
+    "idx":"33",
+    "name":"Raspberry",
+    "img":"https://i.pinimg.com/736x/e7/9b/2b/e79b2bd47fef2ba37b196d697faa3a2a.jpg",
+    "description":"Raspberries are small, sweet, and slightly sour fruits that come in many colors like red, black, purple, and even yellow or gold. They have a soft, velvety texture and are made up of lots of tiny little parts called drupelets, each with a tiny seed inside. Raspberries grow on bushes and are often eaten fresh or used in jams, jellies, and desserts. "
+},
+    {
+    "idx":"34",
+    "name":"Starfruit",
+    "img":"https://i.pinimg.com/736x/42/72/a7/4272a7e88d37fbb61dcb9d54011c2be6.jpg",
+    "description":"Star fruit, also known as carambola, is a tropical fruit that gets its name from its star-like shape when sliced. It has a sweet and slightly sour taste, and a crunchy texture. It's a fun and healthy snack that's easy to eat, even for kids, because you don't need to peel or seed it! "
+},
+    {
+    "idx":"35",
+    "name":"Strawberry",
+    "img":"https://i.pinimg.com/736x/77/37/cc/7737cc5acaef557fea76441c3a484890.jpg",
+    "description":"Strawberries are sweet, red, heart-shaped fruits that grow on plants close to the ground. They have a juicy, slightly tart taste and are covered in tiny seeds on the outside. Kids can enjoy them fresh, in desserts, or in other treats. "
+},
+    {
+    "idx":"36",
+    "name":"Tamarind",
+    "img":"https://i.pinimg.com/736x/97/b1/e8/97b1e8155161fd9529ccbe3e27781659.jpg",
+    "description":"Tamarind is a sweet and sour fruit that grows inside a long, brown pod on a tree. It has a sticky, brown pulp inside that's used to add flavor to many dishes and drinks. The taste can be similar to a mix of lemon and dates. "
+},
+    {
+    "idx":"37",
+    "name":"Tangerine",
+    "img":"https://i.pinimg.com/736x/4b/00/84/4b0084480eb8f3a7e5aac812e64bc973.jpg",
+    "description":"Tangerines are small, sweet citrus fruits that are like little oranges. They are easy to peel and have a sweet, sometimes tangy, taste. They are also packed with Vitamin C, making them a healthy snack. "
+},
+    {
+    "idx":"38",
+    "name":"Ugli fruit",
+    "img":"https://i.pinimg.com/736x/e4/8a/8d/e48a8d65c1fb42c44121d25c4abeab0b.jpg",
+    "description":"Ugli fruit, also known as Jamaican tangelo, is a unique citrus fruit that's a mix of grapefruit, orange, and tangerine. It gets its name from its bumpy, greenish-yellow skin, which might look a little 'ugly' on the outside. But don't let the looks fool you! Inside, it's sweet and juicy, with orange-colored segments that are easy to peel and eat. "
+},
+    {
+    "idx":"39",
+    "name":"Watermelon",
+    "img":"https://i.pinimg.com/736x/f5/52/25/f5522551c5a750869e2453979df67264.jpg",
+    "description":"A watermelon is a large, round or oval-shaped fruit with a green rind, sweet red or pink flesh, and black seeds (though some are seedless!). It's juicy, refreshing, and a great treat on a hot day, and it's made up mostly of water, according to kids science sites. "
+},
+    {
+    "idx":"40",
+    "name":"Ackee",
+    "img":"https://i.pinimg.com/736x/a2/1c/cb/a21ccb00faa6f303aa76f51f14bc7e4e.jpg",
+    "description":"Ackee is a fruit that grows on trees. When it's ripe, it's red or orange and splits open to show creamy, yellow or white flesh with shiny black seeds. Only the flesh is safe to eat after it's cooked. It's a bit like a pear in shape and tastes creamy and nutty. "
+},
+    {
+    "idx":"41",
+    "name":"Ziziphus ",
+    "img":"https://i.pinimg.com/736x/2b/93/7c/2b937ccb7ebb4e67016743fa8ce87b42.jpg",
+    "description":"Ziziphus fruit, also called jujube or Chinese date, is a small, round or oval fruit that grows on a thorny tree. It's sweet and can be eaten fresh or dried, like a date. The fruit is green when young, then turns reddish-brown or even blackish when ripe. It has a single seed inside. "
+},
+{
+    "idx":"42",
+    "name":"Ice apple",
+    "img":"https://i.pinimg.com/736x/76/16/e0/7616e008e20c4473f7ea486d19ae707b.jpg",
+    "description":"Ice apples are like small, clear jelly, kind of like a wobbly, sweet litchi. They grow on palm trees and have a mild, sweet taste, like a hint of coconut. They are super refreshing, especially in summer, and are good for you too. "
+}
+
+]

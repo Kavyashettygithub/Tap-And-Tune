@@ -1,0 +1,338 @@
+[
+    {
+    "id":"1",
+    "name":"Violin",
+    "img":"https://i.pinimg.com/736x/96/c6/64/96c6640fcd02049f7ddd2897fc87960e.jpg",
+    "sound":"",
+    "description":"The violin is a beautiful string instrument that produces a wide range of sounds, from bright and clear to mellow and warm. It's known for its singing tone and ability to express a variety of emotions through music. Kids can learn to play the violin and make their own music with it! "
+},
+    {
+    "id":"2",
+    "name":"Cello",
+    "img":"https://i.pinimg.com/736x/47/81/01/478101c8b4c6453015788e130830bf8e.jpg",
+    "sound":"",
+    "description":"The cello is a large, string instrument that plays low, rich notes, like a deep voice. It has four strings and is played with a bow while sitting down. It can sound smooth and lyrical, or bold and dramatic. It's part of orchestras and string groups, and sometimes even used in pop music. "
+},
+    {
+    "id":"3",
+    "name":"Guitar ",
+    "img":"https://i.pinimg.com/736x/a7/e8/2d/a7e82de78dce9ce32a7868a652300c6a.jpg",
+    "sound":"",
+    "description":"The guitar is a stringed instrument that makes music when the strings are plucked or strummed. It's a versatile instrument, used in many different styles of music like rock, pop, and folk. Guitars can be acoustic, which means they use the hollow body to amplify sound, or electric, which use pickups and amplifiers. "
+},
+    {
+    "id":"4",
+    "name":"Harp",
+    "img":"https://i.pinimg.com/736x/4a/e2/fb/4ae2fb81a2b4cd840d9e909f805b7f1e.jpg",
+    "sound":"",
+    "description":"Harp music sounds gentle and soothing, like a calming melody floating through the air. It's made by plucking the strings of a large, triangular instrument, and it's often used to create peaceful and relaxing sounds according to the Minnesota Orchestra. The harp has a wide range of notes, from high and tinkling to low and resonant, like a musical waterfall. "
+},
+    {
+    "id":"5",
+    "name":"Ukulele ",
+    "img":"https://i.pinimg.com/736x/7c/c0/21/7cc021b0c8b9dc065c04c368eddf1724.jpg",
+    "sound":"",
+    "description":"The ukulele is a small, four-stringed instrument that's perfect for kids to learn music. Its bright, cheerful sound and relatively simple chords make it a great starter instrument. Originating in Hawaii, the ukulele is known for its cheerful sound and is often called the 'uke'. It's easy to learn the basic strumming patterns and simple songs, making it fun for kids to play. "
+},
+    {
+    "id":"6",
+    "name":"Banjo",
+    "img":"https://i.pinimg.com/736x/d0/cd/dd/d0cddd96d96b5cd5893c45fbff58ae78.jpg",
+    "sound":"",
+    "description":"A banjo is a fun, stringed musical instrument with a bright, twangy sound. It's often played in folk, country, and bluegrass music, and its unique sound comes from a thin membrane stretched across the body. Imagine a guitar, but with a rounder body and a different kind of cheerful, bouncy sound! "
+},
+    {
+    "id":"7",
+    "name":"Mandolin",
+    "img":"https://i.pinimg.com/736x/64/93/3b/64933ba324eab304971f5e950533148c.jpg",
+    "sound":"",
+    "description":"A mandolin is a small, stringed musical instrument that looks a bit like a small guitar. It's played by plucking or strumming the strings with a pick, and it makes a bright, cheerful sound. Mandolins are used in many different types of music, like bluegrass, folk, and even some classical pieces. "
+},
+    {
+    "id":"8",
+    "name":"Sitar",
+    "img":"https://i.pinimg.com/736x/a1/56/22/a156223b26e3b1b132886e4eec854eaa.jpg",
+    "sound":"",
+    "description":"The sitar is a long-necked, stringed instrument from India, often used in classical music. It has a unique sound with a mix of melody and a drone-like background, created by many strings that vibrate together. "
+},
+    {
+    "id":"9",
+    "name":"Flute",
+    "img":"https://i.pinimg.com/736x/16/71/10/1671102fd77887aa061c1beac0669936.jpg",
+    "sound":"",
+    "description":"The flute is a beautiful woodwind instrument that makes music by blowing air across a hole, creating a vibrating column of air inside the tube. It's known for its bright, clear, and sometimes bird-like sounds, and it can play both happy and peaceful melodies. Flutes come in different sizes and can be part of many musical styles. "
+},
+    {
+    "id":"10",
+    "name":"Clarinet",
+    "img":"https://i.pinimg.com/736x/15/30/7a/15307a7e5a8f1a1c2759f29d6aa0a30d.jpg",
+    "sound":"",
+    "description":"The clarinet is a woodwind instrument with a warm, expressive sound. It uses a vibrating reed to create music, and players change notes by covering holes with their fingers. It's found in many types of music, from classical to jazz. "
+},
+    {
+    "id":"11",
+    "name":"Oboe",
+    "img":"https://i.pinimg.com/736x/f5/87/11/f587118d6920fde65ba650568d4b9c15.jpg",
+    "sound":"",
+    "description":"The oboe is a woodwind instrument that looks like a long, slightly conical tube with many keys. It's known for its beautiful, slightly nasal, and expressive sound, which is produced by blowing into a double reed at the top. It's a key instrument in orchestras and can also be heard in various musical styles. "
+},
+    {
+    "id":"12",
+    "name":"Bassoon",
+    "img":"https://getkidsintomusic.com/wp-content/uploads/2022/06/img_0279.jpg?w=1400",
+    "sound":"",
+    "description":"The bassoon is a big, wooden wind instrument with a low, rich sound. It looks like a long, twisted tube and uses a double reed to make its music. It's like the bass voice of the woodwind family in an orchestra. "
+},
+    {
+    "id":"13",
+    "name":"Saxophone",
+    "img":"https://i.pinimg.com/736x/39/3a/d4/393ad45cc1c031e8596a8fe8c5ce6b1b.jpg",
+    "sound":"",
+    "description":"The saxophone is a musical instrument that produces sound when a player blows air into a mouthpiece with a reed, causing it to vibrate. It's a woodwind instrument, but often made of brass, and comes in different sizes and pitches, with the alto saxophone being a common choice for beginners. Saxophones are used in many types of music, from jazz and classical to pop and rock. "
+},
+    {
+    "id":"14",
+    "name":"Piccolo ",
+    "img":"https://i.pinimg.com/736x/b9/ef/d1/b9efd1f769186eb12a15992f897cf1f1.jpg",
+    "sound":"",
+    "description":"The piccolo is a small, high-pitched member of the flute family, often described as sounding like a 'little flute'. It's known for its bright, clear, and sometimes piercing tone, capable of reaching notes an octave higher than a regular flute. Because of its small size and high range, it's a very noticeable instrument in an orchestra or band. "
+},
+    {
+    "id":"15",
+    "name":"Trumpet",
+    "img":"https://i.pinimg.com/736x/01/59/18/01591883455a5483a1e19b907d026094.jpg",
+    "sound":"",
+    "description":"The trumpet is a shiny, brass instrument that makes a loud, clear sound when someone blows air into it while buzzing their lips into the mouthpiece. It has buttons called valves that change the notes. Trumpets are used in many types of music, like jazz and orchestras. "
+},
+    {
+    "id":"16",
+    "name":"Trombone",
+    "img":"https://i.pinimg.com/736x/db/44/43/db4443ce48c90d51f3de207735be8c66.jpg",
+    "sound":"",
+    "description":"The trombone is a brass instrument that uses a slide to change notes, making it easy for kids to understand how it works. It makes a cool, sliding sound, and it's often heard in bands, orchestras, and jazz music. The trombone is known for its ability to play both low and high notes, and it's a lot of fun to listen to! "
+},
+    {
+    "id":"17",
+    "name":"French Horn",
+    "img":"https://i.pinimg.com/736x/80/0f/b8/800fb85fd855aa2dae4bf1c822d66de7.jpg",
+    "sound":"",
+    "description":"The French horn, or simply 'the horn,' is a brass instrument known for its warm, rich, and sometimes mellow sound. It's shaped like a long tube coiled into a circular form, with a large bell at the end according to Britannica Kids. When a musician plays it, they blow air into a mouthpiece, and the air vibrates through the tubing, creating a sound that comes out of the bell. "
+},
+    {
+    "id":"18",
+    "name":"Tuba ",
+    "img":"https://i.pinimg.com/736x/a8/1d/d5/a81dd50f342fb0718a3886256dc50877.jpg",
+    "sound":"",
+    "description":"The tuba is a big, low-sounding brass instrument that plays the deepest notes in an orchestra or band. It's like the musical grandpa, providing a strong, grounding sound. Imagine it as the musical anchor, making the music sound full and rich. "
+},
+    {
+    "id":"19",
+    "name":"Drums ",
+    "img":"https://i.pinimg.com/736x/5f/69/12/5f69121238fe6d3b70c7faa4c4efa201.jpg",
+    "sound":"",
+    "description":"Drums are exciting musical instruments that kids can hit or shake to make sounds. They belong to the percussion family, which means they create noise when struck. Drums are often part of a drum kit, which includes different sized drums and cymbals. Drums help keep the beat in music and can make it sound fast, slow, loud, or soft. "
+},
+    {
+    "id":"20",
+    "name":"Congas",
+    "img":"https://i.pinimg.com/736x/f9/cd/a9/f9cda9b45a7b9a15715b7b5d6afe5ae7.jpg",
+    "sound":"",
+    "description":"Conga drums are tall, narrow, hand drums that make cool sounds! They are usually played in sets of two or three, and the different sizes make different sounds. Congas are used in many types of music, especially in Cuban music like rumba. People who play congas are called congueros! "
+},
+    {
+    "id":"21",
+    "name":"Bongos",
+    "img":"https://i.pinimg.com/736x/1e/40/3c/1e403cfd165751a424f7055674aff698.jpg",
+    "sound":"",
+    "description":"Bongo drums are a pair of small, hand-played drums that produce different pitched sounds, often used in Latin and Afro-Cuban music. They are known for their lively rhythms and are a fun way for kids to explore music and develop their coordination. "
+},
+    {
+    "id":"22",
+    "name":"Timpani",
+    "img":"https://i.pinimg.com/736x/c9/0e/5b/c90e5b0e668e1f64e622b26f1518b41f.jpg",
+    "sound":"",
+    "description":"Timpani are big, bowl-shaped drums, like kettle drums, that orchestras use. They can make different pitches by tightening or loosening the drumhead, and they're played with mallets. They add a lot of drama and rhythm to music! "
+},
+    {
+    "id":"23",
+    "name":"Marimba",
+    "img":"https://i.pinimg.com/736x/ba/3d/23/ba3d238c0af5fa2b7661c6ef1923f865.jpg",
+    "sound":"",
+    "description":"Marimba music is a type of music played on a large, xylophone-like instrument called a marimba. It has a beautiful, mellow sound because of the wooden bars and resonators underneath. Kids can enjoy marimba music in many ways, like listening to it, playing it, or even learning to play simple melodies on it. "
+},
+    {
+    "id":"24",
+    "name":"Xylophone",
+    "img":"https://i.pinimg.com/736x/f3/86/80/f38680b7ab078d79e9fa9f8647e9b93d.jpg",
+    "sound":"",
+    "description":"A xylophone is a musical instrument with wooden bars that make different sounds when hit with mallets. Kids can easily make music by tapping the bars, which are arranged from long to short to create different notes. It's a fun way to learn about music and sounds! "
+},
+    {
+    "id":"25",
+    "name":"Tambourine",
+    "img":"https://i.pinimg.com/736x/42/65/34/426534a680852b66a6788456aa37a994.jpg",
+    "sound":"",
+    "description":"A tambourine is a fun musical instrument for kids! It's a round frame, usually made of wood, with little metal discs called 'jingles' attached to the sides. When you shake or hit the tambourine, the jingles make a bright, jingling sound. Sometimes, there's also a drumhead stretched over the frame, and you can hit that too! "
+},
+    {
+    "id":"26",
+    "name":"Triangle",
+    "img":"https://i.pinimg.com/736x/07/ee/25/07ee259ff6c4605fdadc7408dfe1ed70.jpg",
+    "sound":"",
+    "description":"The triangle is a fun, shiny musical instrument shaped like a triangle, made of metal. When you hit it with a special stick, it makes a bright, ringing sound. It's part of the percussion family, like drums and tambourines. You can hear it in orchestras, bands, and even some types of folk music. "
+},
+    {
+    "id":"27",
+    "name":"Piano ",
+    "img":"https://i.pinimg.com/736x/b1/96/9a/b1969a1a4c8dfcbc43013f30bbe61e1b.jpg",
+    "sound":"",
+    "description":"Piano music is made by pressing keys that cause hammers to hit strings inside the piano. These vibrations create sounds. The piano has a keyboard with white and black keys, and the way you press the keys (softly or hard) changes the sound. "
+},
+    {
+    "id":"28",
+    "name":"Organ",
+    "img":"https://i.pinimg.com/736x/05/5e/73/055e7341e6603007be18baf683a8900a.jpg",
+    "sound":"",
+    "description":"Organ music is made by air blowing through pipes. It has keyboards played by hands and feet. The organ can sound like many different instruments, from flutes to trumpets, and can be very loud or very soft. It's often heard in churches and concert halls. "
+},
+    {
+    "id":"29",
+    "name":"Accordion",
+    "img":"https://i.pinimg.com/736x/90/2c/81/902c811c59a78d320efff91ca5783431.jpg",
+    "sound":"",
+    "description":"The accordion is a musical instrument that is played by pushing and pulling a bellows, which is the box part in the middle, while pressing buttons or keys. These buttons and keys make different notes, and the bellows help blow air over metal reeds to create the sounds. It's like a portable organ or a box of musical buttons! "
+},
+    {
+    "id":"30",
+    "name":"Synthesizer",
+    "img":"https://i.pinimg.com/736x/da/92/dd/da92dd3d4e711c6e443e9792f5b5b103.jpg",
+    "sound":"",
+    "description":"A synthesizer is an electronic musical instrument that creates sounds using electricity. It's like a box of sounds that can be changed and shaped to make all sorts of noises, from mimicking real instruments to creating brand new sounds according to www.astrosafe.co. Think of it as a musical toolbox with lots of buttons and knobs that let you experiment with different sounds. "
+},
+    {
+    "id":"31",
+    "name":"Harpsichord",
+    "img":"https://i.pinimg.com/736x/87/18/7a/87187af1b152e47faf4c4ea75ad71e9f.jpg",
+    "sound":"",
+    "description":"The harpsichord is an old-fashioned keyboard instrument that creates music by plucking strings, unlike a piano which uses hammers to strike the strings. It has a distinctive, often bright sound and was popular long ago, especially during the Baroque period. Imagine it like a piano but instead of hammers hitting the strings, small pieces of quill or plastic pluck them. "
+},
+    {
+    "id":"32",
+    "name":"Electric Keyboard",
+    "img":"https://upload.wikimedia.org/wikipedia/commons/b/bf/YamahaKeyboard-2.jpg",
+    "sound":"",
+    "description":"In technical terms, an electronic keyboard is a rompler-based synthesizer with a low-wattage power amplifier and small loudspeakers. Electronic keyboards offer a diverse selection of instrument sounds (piano, organ, violin, etc.) along with synthesizer tones."
+},
+    {
+    "id":"33",
+    "name":"Bell Stick",
+    "img":"https://i.pinimg.com/736x/04/0b/7a/040b7a34c1921214fdf3f720b5e70631.jpg",
+    "sound":"",
+    "description":"A Bell Stick is an entertaining wooden baton with shiny metal bells spread over the sides and tip. Shake it and each of the ten jingly bells rattle making a delightful and pleasing sound. This musical stick makes a fantastic audio sensory toy and a nice little addition to the music box."
+},
+    {
+    "id":"34",
+    "name":"Lute",
+    "img":"https://i.pinimg.com/736x/7f/2c/8f/7f2c8fbeef07299d1343de1b62b4d146.jpg",
+    "sound":"",
+    "description":"The lute is an old-fashioned musical instrument that looks like a small, pear-shaped guitar. It has a round wooden body and a long neck with strings that are plucked or strummed with fingers. Lutes were popular long ago, especially during the Renaissance period, and they have a beautiful, resonant sound. "
+},
+    {
+    "id":"35",
+    "name":"Ceiesta",
+    "img":"https://i.pinimg.com/736x/28/6e/ee/286eee539f9f162e5194665ae8be082b.jpg",
+    "sound":"",
+    "description":"The celesta is a keyboard instrument that looks a bit like a small, upright piano, but it makes a very different sound. Instead of strings, it has metal bars inside that make a bell-like or tinkling sound when hammers, activated by the keys, strike them. "
+},
+    {
+    "id":"36",
+    "name":"Dholak",
+    "img":"https://i.pinimg.com/736x/7d/31/11/7d3111086a6bb7e880453cf6a029b1d6.jpg",
+    "sound":"",
+    "description":"The Dholak is a two-sided hand drum, like a mini-drum set, that's fun for kids to play. It's used in many types of music, from folk songs to celebrations. The Dholak has two sides, one for lower sounds (bass) and one for higher sounds (treble), which kids can tap with their hands to make different rhythms. "
+},
+    {
+    "id":"37",
+    "name":"Sarod",
+    "img":"https://i.pinimg.com/736x/b7/a4/95/b7a495a45378fdc44514a0a075695583.jpg",
+    "sound":"",
+    "description":"The sarod is a beautiful Indian musical instrument that is like a lute, with a deep and resonant sound. It's played by plucking the strings with a plectrum (a small, hard object) while pressing down on the strings to change the notes. It's a fretless instrument, which means the player can slide their fingers smoothly between notes, creating a unique and expressive sound. "
+},
+    {
+    "id":"38",
+    "name":"Cymbal",
+    "img":"https://i.pinimg.com/736x/03/0a/60/030a609ead7ea53286f087a47a61d675.jpg",
+    "sound":"",
+    "description":"Cymbals are shiny, metal plates that make a ringing sound when you hit them together or with a stick. They are part of the percussion family of musical instruments and are often found in drum kits and orchestras. Cymbals come in different sizes and shapes, and they can make a variety of sounds depending on how they are played. "
+},
+    {
+    "id":"39",
+    "name":"Gong",
+    "img":"https://i.pinimg.com/736x/45/4d/b1/454db1bf7ed1f46c13fd82c9a339d109.jpg",
+    "sound":"",
+    "description":"A gong is a large, flat, circular piece of metal that makes a ringing sound when hit with a mallet. It's a percussion instrument that originated in East and Southeast Asia and is used in various musical styles, including orchestras and traditional music from Bali and Java. "
+},
+    {
+    "id":"40",
+    "name":"snare drum",
+    "img":"https://i.pinimg.com/736x/76/73/2f/76732fa61dd9e579411d5bd95a8a9f87.jpg",
+    "sound":"",
+    "description":"The snare drum (or side drum) is a percussion instrument that produces a sharp staccato sound when the head is struck with a drum stick, due to the use of a series of stiff wires held under tension against the lower skin."
+},
+    {
+    "id":"41",
+    "name":"Gu-zheng",
+    "img":"https://i.pinimg.com/736x/ee/62/72/ee6272523db3559014dd174e17453a79.jpg",
+    "sound":"",
+    "description":"The Guzheng is a beautiful, ancient Chinese instrument with strings stretched over a long, wooden soundboard. It's like a long, flat harp, but instead of being played with a bow, the strings are plucked with fingers. Guzheng players often wear fingerpicks on their fingers to help them pluck the strings. "
+},
+    {
+    "id":"42",
+    "name":"sparkling chime",
+    "img":"https://i.pinimg.com/736x/82/35/14/823514fd752bf13fbabe602e2d68c026.jpg",
+    "sound":"",
+    "description":"A sparkling chime for kids is a fun and engaging toy that combines visual appeal with pleasant sounds. It often features bright, colorful elements that sparkle or reflect light, and makes gentle, tinkling sounds when moved or blown by the wind. These chimes can be used to stimulate a child's senses, teach about cause and effect, and even promote mindfulness.  "
+},
+    {
+    "id":"43",
+    "name":"Mouth organ",
+    "img":"https://i.pinimg.com/736x/6b/77/da/6b77dabd71173b10d10c0bd8a7cb2c40.jpg",
+    "sound":"",
+    "description":"A mouth organ, also known as a harmonica, is a small, rectangular musical instrument that you play by blowing or sucking air into its holes. It has reeds inside that vibrate to make sounds, and is loved for its portable size and easy-to-learn melodies. "
+},
+    {
+    "id":"44",
+    "name":"Harmonium",
+    "img":"https://i.pinimg.com/736x/7d/bf/af/7dbfafa6e10a1240e39f2bc59a13848f.jpg",
+    "sound":"",
+    "description":"The harmonium is a musical instrument that's like a small, portable organ. It has keys like a piano, and you play it by pumping air through reeds to make sounds. It's often used in Indian music to accompany singing and other instruments. "
+},
+    {
+    "id":"45",
+    "name":"Damru",
+    "img":"https://i.pinimg.com/736x/22/b7/0e/22b70e9b6a55aa8def3f38f193bdac24.jpg",
+    "sound":"",
+    "description":"The damru is a small, hourglass-shaped drum from India, often associated with Lord Shiva. It's played by twisting the wrist to swing cords that hit the drumheads. Kids can easily play this hand percussion instrument, and it's also a fun way to learn about Indian culture. "
+},
+    {
+    "id":"46",
+    "name":"Ektara",
+    "img":"https://i.pinimg.com/736x/ea/56/e3/ea56e33b706eb5b6c753ba7e26904ec5.jpg",
+    "sound":"",
+    "description":"The ektara is a simple, one-stringed musical instrument from South Asia. It's like a tiny guitar but with only one string. People play it by plucking the string with their fingers, and it's often used in folk music, especially in India and Bangladesh. The ektara is known for its simple design and beautiful, melodic sounds. "
+},
+    {
+    "id":"47",
+    "name":"Yueqin",
+    "img":"https://i.pinimg.com/736x/b3/04/d9/b304d9d52dc56df4cce3480f3a6f974d.jpg",
+    "sound":"",
+    "description":"The Yueqin is a Chinese stringed instrument shaped like a moon, according to the Museum of Chinese in America. It has four strings and a short neck, and it's often used in Chinese opera and folk music. It's also known as the moon guitar. "
+},
+    {
+    "id":"48",
+    "name":"Sarangi",
+    "img":"https://i.pinimg.com/736x/c7/7a/76/c77a768a6dd47ccc7a1253942c7dce52.jpg",
+    "sound":"",
+    "description":"The sarangi is a stringed instrument from India, played with a bow. It has a rectangular wooden body and many strings, and it's known for its expressive, soulful sound, often compared to the human voice. It's used in both classical and folk music. "
+}
+]
